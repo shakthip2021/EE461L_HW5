@@ -5,6 +5,9 @@
 }
 #containerForCentering{
     text-align:center;
+    border: 15px cyan;
+    padding: 20px;
+    margin: 10px;
 }
 .info{
     color: darkblue;
