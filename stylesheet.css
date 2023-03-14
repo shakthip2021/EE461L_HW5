@@ -10,9 +10,9 @@
     color: darkblue;
     text-align:center;
     font-size:20px;
-    padding: 20px;
-    border: 15px cyan;
-    margin: 10px;
+    padding: 3px;
+    border: 3px cyan;
+    margin: 3px;
 }
 #rickroll:hover{
     color: gold;
