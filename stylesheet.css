@@ -1,7 +1,7 @@
 #headertag{
-    font-size:32px; 
     color: blue; 
     text-align:center;
+    font-size: large;
 }
 
 .info{
@@ -11,4 +11,5 @@
 }
 a:hover{
     color: gold;
+    text-align: center;
 }
