@@ -1,9 +1,3 @@
-body{
-    width: 300px;
-    padding: 20px;
-    border: 15px cyan;
-    margin: 10px;
-}
 #headerTag{
     color: blue; 
     text-align:center;
@@ -19,4 +13,9 @@ body{
 }
 #rickroll:hover{
     color: gold;
+}
+img{
+    padding: 20px;
+    border: 15px cyan;
+    margin: 10px;
 }
