@@ -10,10 +10,12 @@
     color: darkblue;
     text-align:center;
     font-size:20px;
+    width: 320px;    
     padding: 3px;
-    border: 3px cyan;
-    margin: 3px;
+    border: cyan 5px;
+    margin: 0;
 }
+
 #rickroll:hover{
     color: gold;
 }
