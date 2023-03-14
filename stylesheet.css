@@ -15,7 +15,9 @@
     border: cyan 5px;
     margin: 0;
 }
-
+a{
+    color:blue;
+}
 #rickroll:hover{
     color: gold;
 }
