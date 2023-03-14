@@ -1,3 +1,14 @@
-p{
-    font-size:32px; color: blue; text-align:center;
+#headertag{
+    font-size:32px; 
+    color: blue; 
+    text-align:center;
+}
+
+.info{
+    color: darkblue;
+    text-align:center;
+    font-size:20px;
+}
+a:hover{
+    color: gold;
 }
